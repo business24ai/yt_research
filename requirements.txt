@@ -1,0 +1,13 @@
+python-dotenv
+pyarrow
+pandas
+jupyter
+jupyterlab
+openai
+ollama
+openai-whisper
+pytube
+openpyxl
+xlsxwriter
+sqlalchemy
+tabulate
