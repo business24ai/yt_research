@@ -11,3 +11,4 @@ openpyxl
 xlsxwriter
 sqlalchemy
 tabulate
+langchain-community
